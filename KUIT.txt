@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 가나다라
+=======
+Baik Hyun Jun
+>>>>>>> bff079f2d9643515df294d1b6380cdaf17df1662
